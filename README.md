@@ -20,7 +20,7 @@ You will need Node.js 18.18.0 or later.
 Clone the project
 
 ```bash
-  git clone https://gitlab.com/remise120/cv-adapter.git
+  git clone https://github.com/remise120/cv-adapter.git
 ```
 
 Go to the project directory
